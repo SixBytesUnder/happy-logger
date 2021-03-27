@@ -1,0 +1,25 @@
+{
+  "name": "happy-logger",
+  "version": "1.0.0",
+  "description": "Simple, yet powerful logger for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SixBytesUnder/happy-logger.git"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "node",
+    "console"
+  ],
+  "author": "SixBytesUnder <wojtek@sixbytesunder.com> (https://sixbytesunder.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SixBytesUnder/happy-logger/issues"
+  },
+  "homepage": "https://github.com/SixBytesUnder/happy-logger#readme"
+}
